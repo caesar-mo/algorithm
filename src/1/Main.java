@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /*
- * 문제 출처 : https://www.acmicpc.net/problem/1712
+ * Watching the problem : https://www.acmicpc.net/problem/1712
  */
 public class Main {
 
