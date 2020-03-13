@@ -9,4 +9,8 @@
 
 1 : 손익 분기점  
 문제 : https://www.acmicpc.net/problem/1712  
-풀이 : https://github.com/caesar-mo/algorithm/blob/master/src/1/Main.java
+풀이 : https://github.com/caesar-mo/algorithm/blob/master/src/1/Main.java  
+
+2 : 설탕 배달 - 더 적은 갯수의 봉지 배달하기  
+문제 : https://www.acmicpc.net/problem/2839  
+풀이 : https://github.com/caesar-mo/algorithm/blob/master/src/2/Main.java
